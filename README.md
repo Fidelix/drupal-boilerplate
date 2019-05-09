@@ -31,6 +31,8 @@
  * Raiz do Drupal
 * [drush](blob/master/drush)
  * Comandos, aliases e configurações do drush específicas do projeto.
+* [patches](blob/master/patches)
+  * Patches aplicados no projeto.
 * [results](blob/master/results)
  * Resultados de testes exportados. Um bom exemplo disto é quando se roda
    drush test-run com a opção --xml. Você pode exportar o xml para este
