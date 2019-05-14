@@ -70,5 +70,4 @@ out
 .pmd
 .allow-devtools-edit
 Guardfile
-config.rb
 .orig
